@@ -1,2 +1,2 @@
 # Chengtu_Competition-Bridge
-some personal sharing of Chengtu competition in the bridge track.
+personal sharings of Chengtu competition in the bridge track, including models in dwg files and randing photos.
